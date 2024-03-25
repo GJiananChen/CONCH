@@ -14,7 +14,7 @@ classifiers = [
 ]
 dependencies = [
     "torch>=2.0.1", "torchvision",
-    "transformers==4.31.0", "tokenizers>=0.14.1",
+    "transformers==4.36.0", "tokenizers>=0.14.1",
     "numpy", "scikit-learn", "timm==0.9.8",
     "regex", "ftfy", "h5py", "pandas"
 ]
